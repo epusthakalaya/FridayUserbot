@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/21bf72be9d7048ed7af68.jpg" width="5000"></a></p> 
-<h1 align="center"><b>USERBOT LK </b></h1>
+<h1 align="center"><b>USERBOT 🇱🇰 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
 
